@@ -1,7 +1,7 @@
 ## Olá! Eu sou a Luana Peletti 👋
 
 - 🔭 I’m currently working on front-end
-- 🌱 I’m currently learning HTML, CSS and JAVASCRIPT
+- 🌱 I’m currently learning HTML, CSS and JAVA
 - 😄 Pronouns: she/her
 
 <div align="centro">
